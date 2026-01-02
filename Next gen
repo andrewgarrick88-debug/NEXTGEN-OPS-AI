@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NextGen Ops AI | Revenue Automation</title>
+<meta name="description" content="AI systems that recover missed leads and book appointments automatically 24/7.">
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;900&display=swap" rel="stylesheet">
+
+<style>
+body {
+  margin:0;
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(180deg,#0b0e1a,#05060c);
+  color:#fff;
+}
+
+section { padding:90px 20px; }
+.container { max-width:1200px; margin:auto; }
+
+h1 { font-size:3.2rem; font-weight:900; }
+h2 { font-size:2.2rem; margin-bottom:20px; }
+p { color:#b6bdd6; line-height:1.7; }
+
+.btn {
+  background: linear-gradient(135deg,#6a7cff,#8c96ff);
+  padding:16px 36px;
+  border-radius:10px;
+  color:#fff;
+  font-weight:700;
+  display:inline-block;
+  margin-top:25px;
+}
+
+.hero {
+  text-align:center;
+  padding-top:120px;
+}
+
+.grid {
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+  gap:30px;
+  margin-top:50px;
+}
+
+.card {
+  background:#12162a;
+  padding:35px;
+  border-radius:18px;
+  border:1px solid rgba(255,255,255,0.05);
+}
+
+.pricing .card {
+  border:2px solid transparent;
+}
+
+.pricing .card:hover {
+  border-color:#6a7cff;
+}
+
+.highlight {
+  border:2px solid #6a7cff;
+  background:linear-gradient(135deg,#6a7cff20,#000);
+}
+
+footer {
+  text-align:center;
+  padding:40px;
+  background:#05060c;
+  color:#7f87a6;
+}
+</style>
+</head>
+
+<body>
+
+<section class="hero">
+  <div class="container">
+    <h1>Stop Losing Leads.<br>Start Booking Automatically.</h1>
+    <p>
+      NextGen Ops AI installs revenue automation systems that respond instantly,
+      qualify leads, and book appointments 24/7 — without hiring staff.
+    </p>
+    <a href="#demo" class="btn">Book Free Demo</a>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>The Problem</h2>
+    <p>
+      30–50% of leads are lost due to missed calls, slow responses,
+      and after-hours inquiries.
+    </p>
+
+    <div class="grid">
+      <div class="card">
+        <h3>⚡ Instant Response</h3>
+        <p>AI responds to every lead in under 5 seconds.</p>
+      </div>
+      <div class="card">
+        <h3>📅 Automated Booking</h3>
+        <p>Appointments book themselves into your calendar.</p>
+      </div>
+      <div class="card">
+        <h3>🔁 24/7 Follow-Up</h3>
+        <p>No lead is forgotten — ever.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>How It Works</h2>
+
+    <div class="grid">
+      <div class="card">
+        <h3>1. Lead Comes In</h3>
+        <p>Website, ads, missed calls, forms, or social.</p>
+      </div>
+      <div class="card">
+        <h3>2. AI Engages</h3>
+        <p>Qualifies, responds, and follows up automatically.</p>
+      </div>
+      <div class="card">
+        <h3>3. Appointment Booked</h3>
+        <p>Your sales team only talks to ready prospects.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="pricing">
+  <div class="container">
+    <h2>Pricing</h2>
+
+    <div class="grid">
+      <div class="card">
+        <h3>PRO</h3>
+        <h2>$7,500</h2>
+        <p>Setup + $1,500/month</p>
+        <p>Single-location businesses.</p>
+      </div>
+
+      <div class="card highlight">
+        <h3>ELITE</h3>
+        <h2>$15,000</h2>
+        <p>Setup + $3,000/month</p>
+        <p>Multi-location & enterprise.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="demo">
+  <div class="container">
+    <h2>Book a Free Demo</h2>
+    <p>See how NextGen Ops AI recovers lost revenue in 15 minutes.</p>
+
+    <iframe src="https://calendly.com/yourusername/ai-demo"
+      width="100%" height="650" frameborder="0"></iframe>
+  </div>
+</section>
+
+<footer>
+  © 2026 NextGen Ops AI — AI Revenue Automation
+</footer>
+
+</body>
+</html>
